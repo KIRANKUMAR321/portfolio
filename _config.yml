@@ -4,6 +4,6 @@ logo: kiran passport size.png
 
 theme: jekyll-theme-minimal
 
-<a href="{{ site.baseurl }}/assets/resume.pdf" download="Gadilingappagari_Kiran_Kumar_Resume.pdf">
+<a href="{{ site.baseurl }}/assets/resume.pdf" download="kiran_kumar_data_analyst_1.docx">
   Download My Resume
 </a>
