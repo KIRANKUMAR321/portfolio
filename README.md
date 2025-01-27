@@ -17,6 +17,10 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 •	Created real-time dashboards for inventory levels and sales trends, improving supply chain decisions.
 •	Liaised with cross-functional teams to establish data standards and ensure reporting accuracy.
 
+**Telugu Akademy Regional Centers Requiremnt From Gowdown For Three Finacial Years**
+
+![image](2 anietie etuk data analytics sales project.jpg)
+
 **MSRTC – Maharashtra Government**
 
 •	Conducted data flow optimization and implemented automated reports for inventory usage and employee 
