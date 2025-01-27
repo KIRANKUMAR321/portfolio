@@ -9,17 +9,17 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 
 ## Work Experience
 
-Software Developer                                                             (30th Sep,2021 to till date)
-Neumeric Technologies Pvt. Ltd, Hyderabad
-Project: Telugu Academy -Telangana Government
-Technologies: Sql, Power BI, Excel, Python
+# Software Developer                                                             (30th Sep,2021 to till date)
+# Neumeric Technologies Pvt. Ltd, Hyderabad
+# Project: Telugu Academy -Telangana Government
+**Technologies: Sql, Power BI, Excel, Python**
 •	Managed end-to-end data processes for procurement, inventory management, and sales in the ERP system, ensuring seamless operations.
 •	Executed data tracking workflows for book printing logistics, including quantities, including quantities, pricing, and vendor details, supporting large – scale distribution to colleges.
 •	Created real-time dashboards for inventory levels and sales trends, improving supply chain decisions.
 •	Liaised with cross-functional teams to establish data standards and ensure reporting accuracy.
 
-Project: MSRTC – Maharashtra Government
-Technologies: Sql, Power BI, Excel, Python
+#Project: MSRTC – Maharashtra Government
+
 •	Conducted data flow optimization and implemented automated reports for inventory usage and employee 
        and inventory management analytics. 
 •	Collaborated with stakeholders to design intuitive dashboards for executive decision-making, ensuring compliance with operational standards.
