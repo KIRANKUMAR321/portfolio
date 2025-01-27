@@ -29,5 +29,13 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
         Questions Ratings.
 •	Built custom dashboards and optimized SQL queries for real-time reporting .
 
+## Achievements
+•	 Recognized by the Telugu Academy clients for prompt support and providing required insights and data, enhancing operational efficiency.
+•	Awarded “Employee of the month” (sep,2024) for outstanding ERP system contributions, revenue generation, and exceptional accountability, nominated by Indian operational director.
+
+## Certifications
+•	Data science python (Beginner to expect) --By Udemy.
+•	Exploratory Data Analysis Projects--By Great Learning 
+
 
 
