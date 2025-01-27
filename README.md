@@ -19,7 +19,7 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 
 **Telugu Akademy Regional Centers Requiremnt From Gowdown For Three Finacial Years**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](my_Ta_Project-1.png)
 
 **MSRTC – Maharashtra Government**
 
