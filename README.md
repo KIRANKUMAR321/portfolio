@@ -47,4 +47,37 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 •	Exploratory Data Analysis Projects--By Great Learning 
 
 
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:kittukirankumar2015@gmail.com">kittukirankumar2015@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 9652339932</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Hyderabad</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
