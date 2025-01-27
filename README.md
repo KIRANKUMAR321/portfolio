@@ -33,9 +33,9 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
         Questions Ratings.
 •	Built custom dashboards and optimized SQL queries for real-time reporting .
 
-**Sample Project of Hr Analatics**
+**Sample Project of HR ANALYTICS PROJECT**
 
-![image](my_Ta_Project-1.png)
+![image](HR_ANALYTICS_PROJECT-1.png)
 
 
 ## Achievements
