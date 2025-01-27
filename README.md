@@ -1,2 +1,4 @@
 ## About Me
-I am A data analyst   from 
+A detail-oriented and results-driven professional with 3.2 years of experience as a .NET developer, specializing in application development, database management, and process optimization. Over the past year, I have transitioned my focus to data analysis, driven by a strong passion for deriving actionable insights from data. Skilled in SQL, Excel, Power BI, and data visualization tools, I combine my technical expertise with analytical skills to support data-driven decision-making. Proficient in collaborating with stakeholders to design and implement solutions that enhance operational efficiency and deliver measurable outcomes. Recognized for problem-solving, ensuring data accuracy, and managing complex projects with precision and timeliness across diverse domains, including ERP systems and public service projects.
+
+
