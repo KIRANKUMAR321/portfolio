@@ -1,10 +1,8 @@
-title: Gadilingappagari kiran kumar 
+title: Gadilingappagari Kiran Kumar
 logo: kiran passport size.png
-
-
 theme: jekyll-theme-minimal
 
-resume: kiran_kumar_data_analyst_1.docx
+resume: /assets/kiran_kumar_data_analyst_1.docx
 download_link_html: 'Download My Resume <i class="fas fa-arrow-down"></i>'
 
 
