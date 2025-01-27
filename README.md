@@ -47,7 +47,7 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 •	Exploratory Data Analysis Projects--By Great Learning 
 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="Gadilingappagari Kiran Kumar_EDA.pdf">Download the Certificate here (pdf file)</a>
 
 
 ## CONTACT DETAILS
