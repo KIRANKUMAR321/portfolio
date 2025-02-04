@@ -69,7 +69,7 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="kiran_kumar_data_analyst_1.docx">Download my CV</a></td>
+      <td><a href="kiran_kumar_Aspiring_data_analyst.docx">Download my CV</a></td>
     </tr>
     
   </tbody>
