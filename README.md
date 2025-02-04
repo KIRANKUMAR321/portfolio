@@ -17,9 +17,7 @@ Bachelor of Science in Computers (Mathematics, Statistics, Computer Science) fro
 •	Created real-time dashboards for inventory levels and sales trends, improving supply chain decisions.
 •	Liaised with cross-functional teams to establish data standards and ensure reporting accuracy.
 
-**Telugu Akademy Regional Centers Requiremnt From Gowdown For Three Finacial Years**
 
-![image](my_Ta_Project-1.png)
 
 **MSRTC – Maharashtra Government**
 
